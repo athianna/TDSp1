@@ -1,0 +1,12 @@
+argparse
+fastapi
+httpx
+markdownify
+numpy
+semantic_text_splitter
+tqdm
+uvicorn
+google-genai
+pillow
+google-generativeai
+python-dotenv
